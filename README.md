@@ -1,4 +1,7 @@
-# LANYARD
+<img width="1410" height="2000" alt="Copy of ASTRO PET (3)" src="https://github.com/user-attachments/assets/d56f08d7-72f8-4384-be8c-f64266a1b6e4" />
+
+
+# E-INK LANYARD
 **A changeable lanyard that you can update from your phone.**
 ## What it does
 This is a lanyard with a 3.7" e-paper screen that connects to your phone and allows you to change what it's displaying in real time over the internet. The photo you upload from your phone gets turned into a black and white image with shades of black and then displayed on the screen. Because it's e-ink, even after you cut the power the image still stays there so you can wear it all day long without having to charge it.

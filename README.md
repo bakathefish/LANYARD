@@ -8,7 +8,7 @@ Almost every month in my school we have a new event and for those we have to pri
 The brain of the entire lanyard is the ESP32 module driving a Waveshare 3.7 inch raw e-paper panel. This panel is stretchable so we use the PCB to support it to add life to the product. On power up the lanyard makes its own WiFi network that you can join from your device and upload an image. That image is then converted into a form the screen can support and sent and flashed onto the screen. A small DC-DC booster circuit is also included to generate the higher voltages the raw panel needs to actually create the images.
 ## Hardware
 ### SCHEMATIC
-<img width="1181" height="835" alt="image" src="https://github.com/user-attachments/assets/32cbffa8-f0a0-48bc-8323-517a09e101d7" />
+<img width="1047" height="740" alt="schematic" src="https://github.com/user-attachments/assets/e97b7b35-8f3c-4db9-9367-8622047220e4" />
 
 ### PCB FRONT
 

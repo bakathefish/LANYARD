@@ -15,11 +15,32 @@ The main parts are the ESP32-S3-MINI-1 module for the WiFi and the brains, the 3
 ### SCHEMATIC
 <img width="1047" height="740" alt="schematic" src="https://github.com/user-attachments/assets/e97b7b35-8f3c-4db9-9367-8622047220e4" />
 
-### PCB FRONT
+### PCB LAYER 1
+
+
+
+
+<img width="507" height="859" alt="image" src="https://github.com/user-attachments/assets/7b3e5b45-593e-45ec-a6f2-014c3e891f4e" />
+
+
+
+
+### PCB LAYER 2
+
+
+
+<img width="347" height="574" alt="image" src="https://github.com/user-attachments/assets/5426bbc5-2705-4a7e-a531-d5c68c4522af" />
+
+
+
+
+
+
+### PCB 3D FRONT
 
 <img width="811" height="820" alt="image-1" src="https://github.com/user-attachments/assets/2b82514d-2c95-4cef-b44a-12f171a4875d" />
 
-### PCB BACK
+### PCB 3D BACK
 
 <img width="811" height="880" alt="image" src="https://github.com/user-attachments/assets/d301cfe2-1bf0-47a2-858a-de0170286e5c" />
 
